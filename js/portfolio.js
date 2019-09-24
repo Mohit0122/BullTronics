@@ -1,7 +1,7 @@
 var JSON_DATA_LINK = "https://shop.BullTronics.com/SrvHosting";
-var JSON_DATA_ID = "5d3f4b82d1c7ae038bb112e4";
+var JSON_DATA_ID = "5d8a6ebbad9e4c0e21eab684";
 var JSON_DATA_OPERATION = "GET_DATA";
-var JSON_DATA_READ_KEY = "HJDYGH3UU";
+var JSON_DATA_READ_KEY = "mohit";
 
 var portfolioData = null;
 
